@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Why Must I Vote?</string>
+    <string name="action_settings">Settings</string>
+    <string name="string1">Why must I vote?\n\nYou must vote to make India a safer place for <b>women</b>.</string>
+    <string name="string2">Know</string>
+    <string name="string3">Spread the word!</string>
+
+    <color name="white">#FFFFFF</color>
+    <color name="red">#ee241c</color>
+    <color name="blue">#00a2e8</color>
+
+    <string name="title_activity_explanation">Explanation</string>
+    <string name="string4"></string>
+
+</resources>
